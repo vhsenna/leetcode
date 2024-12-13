@@ -9,3 +9,4 @@
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | `Two Pointers` `String` | Easy
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | `Array` `Hash Table` `Union Find` | Medium
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | `Array` `Two Pointers` `Binary Search` | Medium
+217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | `Array` `Hash Table` `Sorting` | Easy
