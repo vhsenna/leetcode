@@ -14,4 +14,5 @@
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | `Array` `Hash Table` `Union Find` | Medium
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | `Array` `Two Pointers` `Binary Search` | Medium
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | `Array` `Hash Table` `Sorting` | Easy
+1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | `Array` | Easy
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | `Array` `Simulation` | Easy
