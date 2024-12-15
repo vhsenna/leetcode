@@ -17,5 +17,6 @@
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | `Array` `Hash Table` `Sorting` | Easy
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | `Two Pointers` `String` | Easy
 704 | [Binary Search](https://leetcode.com/problems/binary-search) | `Array` `Binary Search` | Easy
+941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | `Array` | Easy
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | `Array` | Easy
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | `Array` `Simulation` | Easy
