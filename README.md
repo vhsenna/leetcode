@@ -20,4 +20,5 @@
 704 | [Binary Search](https://leetcode.com/problems/binary-search) | `Array` `Binary Search` | Easy
 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | `Array` | Easy
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | `Array` | Easy
+1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | `Array` `Prefix Sum` | Easy
 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | `Array` `Simulation` | Easy
