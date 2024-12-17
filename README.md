@@ -17,6 +17,7 @@
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | `Array` `Hash Table` `Union Find` | Medium
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | `Array` `Two Pointers` `Binary Search` | Medium
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | `Array` `Hash Table` `Sorting` | Easy
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | `Hash Table` `String` `Sorting` | Easy
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | `Two Pointers` `String` | Easy
 704 | [Binary Search](https://leetcode.com/problems/binary-search) | `Array` `Binary Search` | Easy
 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | `Array` | Easy
